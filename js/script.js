@@ -8,7 +8,7 @@ var myArray = [
 ["guy", "To Grunch, draw two cards. <br> '?' is equal to the number of cards in your hand."],
 ["hooligan", "To Grunch, do up to seven push-ups in real life. <br> '?' is equal to the number of push-ups you did. You are allowed to lie. <br> Doing push-ups is a special action and does not use the stack."],
 ["ingrate", "To Grunch, attach Grunch to target land you control. Grunch has the abilities of the land he is attached to. <br> '?' is equal to the number of lands you control."],
-["jerk", "To Grunch, Put a Grunch counter on Grunch. For as long as Grunch has a Grunch counter, Grunch has "tap: Grunch." <i>(Be sure to revisit tinyurl.com/howtoGRUNCH each time you tap Grunch.)</i> <br> '?' is perpetually equal to one. '?' cannot be changed for the rest of the game."],
+["jerk", "To Grunch, Put a Grunch counter on Grunch. For as long as Grunch has a Grunch counter, Grunch has 'tap: Grunch.' <i>(Be sure to revisit tinyurl.com/howtoGRUNCH each time you tap Grunch.)</i> <br> '?' is perpetually equal to one. '?' cannot be changed for the rest of the game."],
 ["killer", "To Grunch, destroy up to two target creatures with combined power 5 or less. <br> '?' is equal to 2."],
 ["lhurgoyf", "To Grunch, mill up to half your library. <br> '?' is equal to the number of creature types among cards in your graveyard."],
 ["monster", "To Grunch, replace target creature's power and toughness numbers with Grunch's power and toughness question marks. <i>(Use scissors if you have to.)</i> <br> '?' is equal to 0."],
