@@ -44,7 +44,7 @@ var ftArray = [
   "Despite his hostile demeanor, Grunch has his roots deep in the trans community.",
   "Okay, okay. You can have a little grunch. As a treat.",
   "It was Felipe's son, Andre Felipe Felipe, who developed what he called the “Grunching” strategy.",
-  "Move your grunch around more."
+  "Move your grunch around more.",
   "GG stands for Grunch Grass. There will be no further questions.",
   "Chili dogs?! - Classic Grunch Quote",
   "Blame Gerrit for this one.",
