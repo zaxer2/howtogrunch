@@ -35,8 +35,8 @@ var ftArray = [
   "Grunch again later",
   "A word of advice: grunch.",
   "That'll do, grunch. That'll do.",
-  "This one is sentient. If you close the page he will die."
-  "GG stands for Good Grunch. There will be no further questions."
+  "This one is sentient. If you close the page he will die.",
+  "GG stands for Good Grunch. There will be no further questions.",
   "I AM NOT CRAZY.<br>I am not crazy! I know he swapped those numbers. I knew it was one. The grunch count starts at *one*. As if I could ever make such a mistake. Never. Never! I just - I just couldn't prove it. He covered his tracks, he got that idiot on the council to lie for him. You think this is something? You think this is bad? This? This... chicanery? He's done worse. That errata! Are you telling me that a card just happens to change like that? No! *He* orchestrated it! Grunch! He had no *rules text*! And we accepted him! We shouldn't have. We took him into our own cube! What was I *thinking*? He'll never change. He'll *never* change! Ever since he was drawn, *always* the same! Couldn't keep himself out of the design contests! But not our Grunch! Couldn't be precious *Grunch*! Grunching them blind! And *HE* gets to be a card? What a sick joke! I should've stopped him when I had the chance!<br>But you have to stop him! You-",
   "Ikora's most wanted",
   "(This card is every gender.)",
