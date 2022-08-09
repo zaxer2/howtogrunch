@@ -63,4 +63,4 @@ var guy = document.getElementById('guytext');
 guy.innerHTML = randomItem[0];
 
 var ft = document.getElementById('flavortext');
-ft.innerHTML = randomItem;
+ft.innerHTML = randomFt;
