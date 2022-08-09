@@ -21,11 +21,45 @@ var myArray = [
 
 ];
 
+var ftArray = [
+"'Grunch.' -Grunch",
+  "'Grunch?' -Grunch",
+  "A grungle saved is a wungle earned.",
+  "Grunch? Grunch!! Gruuuuuuunch!!",
+  "What the grunch did you just say about me, you little grunch?",
+  "I *grunch* my family!",
+  "*annoyed grunch*",
+  "To grunch, or not to grunch?",
+  "I am the grunch that is approaching",
+  "All signs point to grunch",
+  "Grunch again later",
+  "A word of advice: grunch.",
+  "That'll do, grunch. That'll do.",
+  "This one is sentient. If you close the page he will die."
+  "GG stands for Good Grunch. There will be no further questions."
+  "I AM NOT CRAZY.\nI am not crazy! I know he swapped those numbers. I knew it was one. The grunch count starts at *one*. As if I could ever make such a mistake. Never. Never! I just - I just couldn't prove it. He covered his tracks, he got that idiot on the council to lie for him. You think this is something? You think this is bad? This? This... chicanery? He's done worse. That errata! Are you telling me that a card just happens to change like that? No! *He* orchestrated it! Grunch! He had no *rules text*! And we accepted him! We shouldn't have. We took him into our own cube! What was I *thinking*? He'll never change. He'll *never* change! Ever since he was drawn, *always* the same! Couldn't keep himself out of the design contests! But not our Grunch! Couldn't be precious *Grunch*! Grunching them blind! And *HE* gets to be a card? What a sick joke! I should've stopped him when I had the chance!\nBut you have to stop him! You-",
+  "Ikora's most wanted",
+  "(This card is every gender.)",
+  "Despite his hostile demeanor, Grunch has his roots deep in the trans community.",
+  "Okay, okay. You can have a little grunch. As a treat.",
+  "It was Felipe's son, Andre Felipe Felipe, who developed what he called the “Grunching” strategy.",
+  "Move your grunch around more."
+  "GG stands for Grunch Grass. There will be no further questions.",
+  "Chili dogs?! - Classic Grunch Quote",
+  "Blame Gerrit for this one.",
+  "Grunch Pro Tip: Hover your mouse over Grunch for his sage words of wisdom.",
+  "It's grunchin' time."
+];
+
 
 var randomItem = myArray[Math.floor(Math.random()*myArray.length)];
+var randomFt = myArray[Math.floor(Math.random()*myArray.length)];
 
 var elem = document.getElementById('grunchtext');
 elem.innerHTML = randomItem[1];
 
 var guy = document.getElementById('guytext');
 guy.innerHTML = randomItem[0];
+
+var ft = document.getElementById('flavortext');
+ft.innerHTML = randomItem;
