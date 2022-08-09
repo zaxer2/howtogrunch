@@ -54,7 +54,7 @@ var ftArray = [
 
 
 var randomItem = myArray[Math.floor(Math.random()*myArray.length)];
-var randomFt = myArray[Math.floor(Math.random()*myArray.length)];
+var randomFt = ftArray[Math.floor(Math.random()*ftArray.length)];
 
 var elem = document.getElementById('grunchtext');
 elem.innerHTML = randomItem[1];
