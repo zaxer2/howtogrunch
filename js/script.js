@@ -54,7 +54,7 @@ var ftArray = [
 var normalGrunchImage = "https://i.imgur.com/gbFuCzV.png"
 var randomGrunchImage = [
   "https://i.imgur.com/prDIShY.gif",
-  "https://i.imgur.com/HTCVNu0.gif",
+  "https://i.imgur.com/xXFJIER.gif",
   "https://i.imgur.com/BaRCH9U.gif",
   "https://i.imgur.com/ZT3ofcu.gif",
   "https://i.imgur.com/7rFA7wX.gif",
