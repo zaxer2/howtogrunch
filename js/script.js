@@ -80,5 +80,6 @@ ft.innerHTML = randomFt;
 if (randomGrunchValue < 0.7) {
 document.getElementById("myImg").src = normalGrunchImage;
 } else {
+  console.log(randomGrunch);
 document.getElementById("myImg").src = randomGrunch;
 }
