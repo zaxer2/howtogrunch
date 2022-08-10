@@ -51,10 +51,22 @@ var ftArray = [
   "Grunch Pro Tip: Hover your mouse over Grunch for his sage words of wisdom.",
   "It's grunchin' time."
 ];
-
+var normalGrunchImage = "https://i.imgur.com/gbFuCzV.png"
+var randomGrunchImage = [
+  "https://i.imgur.com/gbdTQ72.gif",
+  "https://i.imgur.com/HTCVNu0.gif",
+  "https://i.imgur.com/azQ6Y5D.gif",
+  "https://i.imgur.com/rrbUWhl.gif",
+  "https://i.imgur.com/Z7rDazd.gif",
+  "https://cdn.discordapp.com/attachments/856761193658318868/1006766780372496414/3dgifmaker48502.gif"
+  ];
+  
 
 var randomItem = myArray[Math.floor(Math.random()*myArray.length)];
 var randomFt = ftArray[Math.floor(Math.random()*ftArray.length)];
+
+var randomGrunch = randomGrunchImage[Math.floor(Math.random()*ftArray.length)];
+var randomGrunchValue = Math.random();
 
 var elem = document.getElementById('grunchtext');
 elem.innerHTML = randomItem[1];
@@ -64,3 +76,9 @@ guy.innerHTML = randomItem[0];
 
 var ft = document.getElementById('flavortext');
 ft.innerHTML = randomFt;
+
+if (randomGrunchValue < 0.7) {
+document.getElementById("myImg").src = normalGrunchImage;
+} else {
+document.getElementById("myImg").src = randomGrunch;
+}
