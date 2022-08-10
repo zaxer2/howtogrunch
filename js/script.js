@@ -53,12 +53,12 @@ var ftArray = [
 ];
 var normalGrunchImage = "https://i.imgur.com/gbFuCzV.png"
 var randomGrunchImage = [
-  "https://i.imgur.com/gbdTQ72.gif",
+  "https://i.imgur.com/prDIShY.gif",
   "https://i.imgur.com/HTCVNu0.gif",
-  "https://i.imgur.com/azQ6Y5D.gif",
-  "https://i.imgur.com/rrbUWhl.gif",
-  "https://i.imgur.com/Z7rDazd.gif",
-  "https://cdn.discordapp.com/attachments/856761193658318868/1006766780372496414/3dgifmaker48502.gif"
+  "https://i.imgur.com/BaRCH9U.gif",
+  "https://i.imgur.com/ZT3ofcu.gif",
+  "https://i.imgur.com/7rFA7wX.gif",
+  "https://cdn.discordapp.com/attachments/856761193658318868/1006772845545791599/ezgif-5-cbb2d545fc.gif"
   ];
   
 
