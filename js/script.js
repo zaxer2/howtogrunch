@@ -65,7 +65,7 @@ var randomGrunchImage = [
 var randomItem = myArray[Math.floor(Math.random()*myArray.length)];
 var randomFt = ftArray[Math.floor(Math.random()*ftArray.length)];
 
-var randomGrunch = randomGrunchImage[Math.floor(Math.random()*ftArray.length)];
+var randomGrunch = randomGrunchImage[Math.floor(Math.random()*randomGrunchImage.length)];
 var randomGrunchValue = Math.random();
 
 var elem = document.getElementById('grunchtext');
