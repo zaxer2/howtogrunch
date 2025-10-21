@@ -11,7 +11,7 @@ var myArray = [
 ["ingrate", "To Grunch, attach Grunch to target land you control. Grunch has the abilities of the land he is attached to. <br> '?' is equal to the number of lands you control."],
 ["jerk", "To Grunch, Put a Grunch counter on Grunch. For as long as Grunch has a Grunch counter, Grunch has 'tap: Grunch.' <i>(Be sure to revisit tinyurl.com/howtoGRUNCH each time you tap Grunch.)</i> <br> '?' is perpetually equal to one. '?' cannot be changed for the rest of the game."],
 ["killer", "To Grunch, destroy up to two target creatures with combined power 5 or less. <br> '?' is equal to 2."],
-["lhurgoyf", "To Grunch, mill up to 10 cards. <br> '?' is equal to the number of creature types among cards in your graveyard."],
+["lhurgoyf", "To Grunch, mill up to 10 cards. <br> '?' is equal to the number of creature types among cards in your graveyard plus one."],
 ["monster", "To Grunch, replace target creature's power and toughness numbers with Grunch's power and toughness question marks. <i>(Use scissors if you have to.)</i> '?' becomes 0."],
 ["nonce", "To Grunch, gain control of up to one target creature with power 3 or less. <br> '?' is equal to the number of creatures you control."],
 ["oaf", "To Grunch, name a card. Target opponent reveals their hand. If their hand contains the named card, '?' becomes 8. Otherwise, '?' is 4."],
