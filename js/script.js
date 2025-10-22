@@ -62,9 +62,9 @@ var randomGrunchImage = [
   "https://i.imgur.com/xXFJIER.gif",
   "https://i.imgur.com/BaRCH9U.gif",
   "https://i.imgur.com/ZT3ofcu.gif",
-  "https://i.imgur.com/7rFA7wX.gif"
+  "https://i.imgur.com/7rFA7wX.gif",
+  "https://i.imgur.com/K6HXuGT.gif" //thankies :)
   ];
-//todo: find "https://cdn.discordapp.com/attachments/856761193658318868/1006772845545791599/ezgif-5-cbb2d545fc.gif"
   
 
 var randomItem = myArray[Math.floor(Math.random()*myArray.length)];
