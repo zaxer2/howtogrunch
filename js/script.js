@@ -1,4 +1,4 @@
-console.log("success");
+window.onload = function() {
 var myArray = [
 ["asshole", "To Grunch, add a token copy of Grunch to your hand. <br>'?' is equal to 3."],
 ["boy", "To Grunch, Grunch fights up to one target creature. <br>'?' is equal to the number of creatures on the battlefield."],
@@ -87,4 +87,5 @@ document.getElementById("myImg").src = normalGrunchImage;
 } else {
   console.log(randomGrunch);
 document.getElementById("myImg").src = randomGrunch;
+}
 }
